@@ -11,10 +11,10 @@ This repository contains a collection of Python scripts designed to automate var
 1. **Clone this repository:**
 - Open cmd or Shell, then run the command:
 ```sh
-git clone https://github.com/BUpikgypbijpiv/monad-testnet-bot.git
+git clone https://github.com/PeterEkwere/MonadForge.git
 ```
 ```sh
-cd Monad-testnet-bot
+cd MonadForge
 ```
 2. **Install Dependencies:**
 - Open cmd or Shell, then run the command:
